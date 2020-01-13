@@ -2,6 +2,6 @@
 <html>
   <head> O co kaman ?? </head>
     <body> 
-      <p> Coś robię ale nie wiem czy dobrze </p>
+      <p> Repozytorium zdalne i lokalne. </p>
     </body>
  </html>
